@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Unveil! An encryption tool, in this project I will also develop an encryption cracker to test it!](https://github.com/wwd9135/Python-projects/tree/main/Unveil)<br><br>- 🌱 I’m currently learning **Python!**<br><br>- 💬 Ask me about **Network engineering or automation!**<br><br>- 📫 How to reach me **wwd9135@gmail.com**
+- 🔭 I’m currently working on [Unveil! An encryption tool, in this project I will also develop an encryption cracker to test it!](https://github.com/wwd9135/Python-projects/tree/main/Unveil)<br><br>- 🌱 I’m currently learning **Python & Powershell!**<br><br>- 💬 Ask me about **Network engineering or automation!**<br><br>- 📫 How to reach me **wwd9135@gmail.com**
 
 
 ## 🌐 Socials:

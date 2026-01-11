@@ -2,7 +2,7 @@
 - Networks & Cyber sec student, Placement @MetOffice
 - GitHub shows my blogs & some of my coding projects.
 
-# Navigation:
+## Navigation:
 - My Blogs repo is my diary & thoughts over a span of my 2026 learning journey.
 - Projects repo is split down into Work, Full & mini project folders, a fairly self explanatory design.
 ## 🌐 Socials:

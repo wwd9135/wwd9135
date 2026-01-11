@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Unveil! An encryption tool, in this project I will also develop an encryption cracker to test it!](https://github.com/wwd9135/Python-projects/tree/main/Unveil)<br><br>- 🌱 I’m currently learning **Python & Powershell!**<br><br>- 💬 Ask me about **Network engineering or automation!**<br><br>- 📫 How to reach me **wwd9135@gmail.com**
-
-
+- Networks & Cyber sec student, Placement @MetOffice
+- GitHub shows my blogs & some of my coding projects.
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/william-richardson-379ab328b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wwd9135@gmail.com) 
 

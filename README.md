@@ -3,8 +3,8 @@
 - GitHub shows my blogs & some of my coding projects.
 
 ## Navigation:
-- My Blogs repo is my diary & thoughts over a span of my 2026 learning journey.
-- Projects repo is split down into Work, Full & mini project folders, a fairly self explanatory design.
+- My Learning progress repo is my diary & thoughts over a span of my 2026 learning journey.
+- Completed_Projects repo is split down into snippets of my internship projects+ Full & mini project folders, a fairly self explanatory design.
 ## Socials:
 - Linkedin: https://www.linkedin.com/in/william-richardson-379ab328b/
 - Email: wwd9135@gmail.com

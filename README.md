@@ -2,6 +2,18 @@
 - Networks & Cyber sec student, Placement @MetOffice
 - GitHub shows my blogs & some of my coding projects.
 
+## Goals
+
+I am currently building depth in **Python, C, and Networking**, with a clear long-term direction.
+
+My capstone focus is on **building tools that detect, explain, and prevent common infrastructure misconfigurations**, alongside understanding the **secure enterprise endpoint lifecycle** end to end.
+
+- **Python** is my primary tool of choice. I am aiming for strong competence in using it for log parsing, dashboards, web scraping, and practical security and networking tools.
+- **C** is a deliberate low-level focus, allowing me to analyse vulnerabilities closer to the hardware, understand memory behaviour, and reason about how systems actually work from machine code through to user input.
+- **Networking** is being rebuilt from first principles. Although I have prior experience, I am revisiting fundamentals to ensure my understanding is solid from endpoints through to WANs.
+
+The overarching aim is not to collect languages or tools, but to develop the ability to design, reason about, and build security tooling with confidence and technical depth.
+
 ## Navigation:
 - My Learning progress repo is my diary & thoughts over a span of my 2026 learning journey.
 - Completed_Projects repo is split down into snippets of my internship projects+ Full & mini project folders, a fairly self explanatory design.

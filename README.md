@@ -34,7 +34,7 @@ The aim isn’t to collect languages or buzzwords, but to build **real technical
 ## 🧭 Repository Navigation
 
 - **Learning-Progress**  
-  A running log of my thinking, notes, and reflections throughout my 2026 learning journey. This is where ideas are formed and refined.
+  A running log of my thinking, notes, and reflections throughout my 2026 learning journey. This is my where ideas are formed and refined.
 
 - **Completed_Projects**  
   A structured collection of:

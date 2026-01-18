@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I’m a **Networks & Cyber Security student** currently on placement at the **UK Met Office**, working close to real enterprise infrastructure rather than toy problems.
+I’m a **Networks & Cyber Security student** currently on placement at the **UK Met Office**, working close to real enterprise infrastructure.
 
 This GitHub is both:
 - A **technical diary** of my learning journey

@@ -1,28 +1,51 @@
-# 💫 About Me:
-- Networks & Cyber sec student, Placement @MetOffice
-- GitHub shows my blogs & some of my coding projects.
+# 💫 About Me
 
-## Goals
+I’m a **Networks & Cyber Security student** currently on placement at the **UK Met Office**, working close to real enterprise infrastructure rather than toy problems.
 
-I am currently building depth in **Python, C, and Networking**, with a clear long-term direction.
+This GitHub is both:
+- A **technical diary** of my learning journey
+- A collection of **hands-on projects and tooling** I’ve built along the way
 
-My capstone focus is on **building tools that detect, explain, and prevent common infrastructure misconfigurations**, alongside understanding the **secure enterprise endpoint lifecycle** end to end.
+I care about understanding systems properly, from the wire and the hardware up to the software and security controls layered on top.
 
-- **Python** is my primary tool of choice. I am aiming for strong competence in using it for log parsing, dashboards, web scraping, and practical security and networking tools.
-- **C** is a deliberate low-level focus, allowing me to analyse vulnerabilities closer to the hardware, understand memory behaviour, and reason about how systems actually work from machine code through to user input.
-- **Networking** is being rebuilt from first principles. Although I have prior experience, I am revisiting fundamentals to ensure my understanding is solid from endpoints through to WANs.
+---
 
-The overarching aim is not to collect languages or tools, but to develop the ability to design, reason about, and build security tooling with confidence and technical depth.
+## 🎯 Goals & Direction
 
-## Navigation:
-- My Learning progress repo is my diary & thoughts over a span of my 2026 learning journey.
-- Completed_Projects repo is split down into snippets of my internship projects+ Full & mini project folders, a fairly self explanatory design.
-## Socials:
-- Linkedin: https://www.linkedin.com/in/william-richardson-379ab328b/
-- Email: wwd9135@gmail.com
+I’m currently developing depth in **Python, C, and Networking**, with a clear long-term focus rather than scattered learning.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+My capstone direction is to **design and build tools that detect, explain, and help prevent infrastructure misconfigurations**, alongside gaining a strong understanding of the **secure enterprise endpoint lifecycle** from build to decommission.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Technical Focus
+
+- **Python**  
+  My primary language. I use it for log parsing, dashboards, automation, networking tools, and security-focused scripts. The goal is clean, readable, production-minded code, not one-off scripts.
+
+- **C**  
+  A deliberate low-level investment. Learning C helps me reason about memory, performance, and vulnerability classes that higher-level languages abstract away. This gives me a stronger foundation for security analysis and systems thinking.
+
+- **Networking**  
+  Being rebuilt from first principles. While I have prior academic experience, I’m revisiting fundamentals to ensure my understanding is solid from **endpoints → LAN → WAN**, with hands-on validation rather than memorisation.
+
+The aim isn’t to collect languages or buzzwords, but to build **real technical judgment**: knowing *why* something works, *where* it breaks, and *how* to design around that.
+
+---
+
+## 🧭 Repository Navigation
+
+- **Learning-Progress**  
+  A running log of my thinking, notes, and reflections throughout my 2026 learning journey. This is where ideas are formed and refined.
+
+- **Completed_Projects**  
+  A structured collection of:
+  - Internship-related snippets
+  - Full projects
+  - Smaller focused tools  
+  Everything here is built with intent and iteration.
+
+---
+
+## 🔗 Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/william-richardson-379ab328b/  
+- **Email:** wwd9135@gmail.com

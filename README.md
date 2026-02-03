@@ -33,10 +33,10 @@ The aim isn’t to collect languages or buzzwords, but to build **real technical
 
 ## 🧭 Repository Navigation
 
-- * **[Learning-Progress](./Learning-path)** 
+- ** Learning path **
   A running log of my thinking, notes, and reflections throughout my 2026 learning journey. This is my where ideas are formed and refined.
 
-- * **[Completed-Projects](./completed-projects)**  
+- ** Completed-projects**  
   A structured collection of:
   - Internship-related snippets
   - Full projects

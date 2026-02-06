@@ -27,7 +27,7 @@ My endgoal is to build a career in cyber security & specialize in Incident respo
 - **Networking**  
   Being rebuilt from first principles. While I have prior academic experience, I’m revisiting fundamentals to ensure my understanding is solid from **endpoints → LAN → WAN**, with hands-on validation rather than memorisation.
 
-The aim isn’t to collect languages or buzzwords, but to build **real technical judgment**: knowing *why* something works, *where* it breaks, and *how* to design around that.
+My aim isn't to collect certs or buzzwords, but to develop my thinking, fundamental knowledge and resourcefulness so I can competantly solve any problem I'm faced with throughout my career.
 
 ---
 

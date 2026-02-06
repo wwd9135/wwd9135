@@ -16,6 +16,7 @@ I’m currently developing depth in **Python, C, and Networking**, with a clear 
 
 My capstone direction is to **design and build tools that detect, explain, and help prevent infrastructure misconfigurations**, alongside gaining a strong understanding of the **secure enterprise endpoint lifecycle** from build to decommission.
 
+My endgoal is to build a career in cyber security & specialize in Incident response
 ### Technical Focus
 
 - **Python**  

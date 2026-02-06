@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 I’m a **Networks & Cyber Security student** currently on placement at the **UK Met Office**, working on enterprise hybrid infrastructure
 
@@ -9,7 +9,7 @@ This GitHub is both:
 I care about understanding systems properly, from the wire and the hardware up to the software and security controls layered on top.
 
 
-## 🎯 Goals & Direction
+## Goals & Direction
 
 I’m currently developing depth in **Python, C, and Networking**, with a clear long-term focus rather than scattered learning.
 

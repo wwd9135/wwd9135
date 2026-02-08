@@ -36,7 +36,7 @@ My aim isn't to collect certs or buzzwords, but to develop my thinking, fundamen
 - **Learning path**
   A running log of my thinking, notes, and reflections throughout my 2026 learning journey. This is my where ideas are formed and refined.
 
-- **Completed-projects**  
+- **Projects**  
   A structured collection of:
   - Internship-related snippets
   - Full projects

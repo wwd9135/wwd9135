@@ -8,6 +8,9 @@ This GitHub is both:
 
 I care about understanding systems properly, from the wire and the hardware up to the software and security controls layered on top.
 
+## Currently working on
+- Creating home Lab to begin security/ networking labs.
+- Project: Building a comprehensive triage tool from scratch, first version will be windows only, PowerShell being used to gather forensics & a python log parser to parse and format the incident report.
 
 ## Goals & Direction
 

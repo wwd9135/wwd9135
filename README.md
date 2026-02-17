@@ -1,7 +1,7 @@
 # Hi I'm Will!
 I’m a Networks & Cyber Security student currently on an industrial placement as a Security Infrastructure Engineer at the Met Office.
 
-I spend my days managing security for an enterprise estate of 4,500+ devices, bridging the gap between infrastructure and security teams. This GitHub is a collection of the tools I’m building to solve the problems I encounter—from automating triage to understanding the low-level mechanics of encryption.
+I currently manage security for an enterprise estate of 4,500+ devices, bridging the gap between infrastructure and security teams. This GitHub is a collection of the tools I’m building to solve the problems I encounter—from automating triage to understanding the low-level mechanics of encryption.
 
 ## Currently Building
 - WFTAF (Windows Forensic Triage & Analysis Framework): A modular DFIR tool using a PowerShell/Python pipeline to automate live system acquisition and heuristic analysis.

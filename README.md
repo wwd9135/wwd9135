@@ -1,35 +1,27 @@
+# Hi I'm Will!
 I’m a Networks & Cyber Security student currently on an industrial placement as a Security Infrastructure Engineer at the Met Office.
 
 I spend my days managing security for an enterprise estate of 4,500+ devices, bridging the gap between infrastructure and security teams. This GitHub is a collection of the tools I’m building to solve the problems I encounter—from automating triage to understanding the low-level mechanics of encryption.
 
-🛠 Currently Building
-WFTAF (Windows Forensic Triage & Analysis Framework): A modular DFIR tool using a PowerShell/Python pipeline to automate live system acquisition and heuristic analysis.
-
-Log Parsing & Normalization: Building robust utilities to transform messy Windows XML logs into structured telemetry for incident response.
-
-Home Lab: Emulating enterprise network topologies to test lateral movement and detection engineering.
+## Currently Building
+- WFTAF (Windows Forensic Triage & Analysis Framework): A modular DFIR tool using a PowerShell/Python pipeline to automate live system acquisition and heuristic analysis.
+- Log Parsing & Normalization: Building robust utilities to transform messy Windows XML logs into structured telemetry for incident response.
+- Home Lab: Emulating enterprise network topologies to test lateral movement and detection engineering.
 
 
-Getty Images
-🎯 Focus & Direction
+## Focus & Direction
 My goal is to move past "running tools" and focus on building them. I want to understand exactly how an attack works at the byte level so I can build better defenses.
+- Python: My primary tool for automation. I focus on building modular, readable code for log parsing, security dashboards, and forensic tools.
+- PowerShell: Essential for enterprise-scale management. I use it for everything from live forensic acquisition to automating patch compliance.
+- C & Systems Thinking: I’m learning C to understand memory management and exploit primitives. It’s a deliberate investment to understand why vulnerabilities happen, not just how to patch them.
+- Networking: Rebuilding my knowledge from first principles (Endpoints → LAN → WAN). I prefer hands-on validation in a lab over just memorizing theory.
 
-Python: My primary tool for automation. I focus on building modular, readable code for log parsing, security dashboards, and forensic tools.
+## Impact so far
+- Managed security remediation for a 4,500+ device estate.
+- Built a patch compliance dashboard that automated reporting for the entire enterprise.
+- Audited and secured 600+ high-risk accounts following a collaborative pen-test.
 
-PowerShell: Essential for enterprise-scale management. I use it for everything from live forensic acquisition to automating patch compliance.
 
-C & Systems Thinking: I’m learning C to understand memory management and exploit primitives. It’s a deliberate investment to understand why vulnerabilities happen, not just how to patch them.
-
-Networking: Rebuilding my knowledge from first principles (Endpoints → LAN → WAN). I prefer hands-on validation in a lab over just memorizing theory.
-
-📈 Impact so far
-Managed security remediation for a 4,500+ device estate.
-
-Built a patch compliance dashboard that automated reporting for the entire enterprise.
-
-Audited and secured 600+ high-risk accounts following a collaborative pen-test.
-
-I’m not interested in collecting buzzwords. I’m building the resourcefulness and fundamental knowledge required to solve complex problems in Incident Response and Security Engineering.
 --- 
 ## 🧭 Repository Navigation
 

@@ -1,39 +1,36 @@
-# About Me
+I’m a Networks & Cyber Security student currently on an industrial placement as a Security Infrastructure Engineer at the Met Office.
 
-I’m a **Networks & Cyber Security student** currently on placement at the **UK Met Office**, working on enterprise hybrid infrastructure
+I spend my days managing security for an enterprise estate of 4,500+ devices, bridging the gap between infrastructure and security teams. This GitHub is a collection of the tools I’m building to solve the problems I encounter—from automating triage to understanding the low-level mechanics of encryption.
 
-This GitHub is both:
-- A **technical diary** of my learning journey
-- A collection of **hands-on projects and tooling** I’ve built along the way
+🛠 Currently Building
+WFTAF (Windows Forensic Triage & Analysis Framework): A modular DFIR tool using a PowerShell/Python pipeline to automate live system acquisition and heuristic analysis.
 
-I care about understanding systems properly, from the wire and the hardware up to the software and security controls layered on top.
+Log Parsing & Normalization: Building robust utilities to transform messy Windows XML logs into structured telemetry for incident response.
 
-## Currently working on
-- Creating home Lab to begin security/ networking labs.
-- Project: Building a comprehensive triage tool from scratch, first version will be windows only, PowerShell being used to gather forensics & a python log parser to parse and format the incident report.
+Home Lab: Emulating enterprise network topologies to test lateral movement and detection engineering.
 
-## Goals & Direction
 
-I’m currently developing depth in **Python, C, and Networking**, with a clear long-term focus rather than scattered learning.
+Getty Images
+🎯 Focus & Direction
+My goal is to move past "running tools" and focus on building them. I want to understand exactly how an attack works at the byte level so I can build better defenses.
 
-My capstone direction is to **design and build tools that detect, explain, and help prevent infrastructure misconfigurations**, alongside gaining a strong understanding of the **secure enterprise endpoint lifecycle** from build to decommission.
+Python: My primary tool for automation. I focus on building modular, readable code for log parsing, security dashboards, and forensic tools.
 
-My endgoal is to build a career in cyber security & specialize in Incident response
-### Technical Focus
+PowerShell: Essential for enterprise-scale management. I use it for everything from live forensic acquisition to automating patch compliance.
 
-- **Python**  
-  My primary language. I use it for log parsing, dashboards, automation, networking tools, and security-focused scripts. The goal is clean, readable, production-minded code, not one-off scripts.
+C & Systems Thinking: I’m learning C to understand memory management and exploit primitives. It’s a deliberate investment to understand why vulnerabilities happen, not just how to patch them.
 
-- **C**  
-  A deliberate low-level investment. Learning C helps me reason about memory, performance, and vulnerability classes that higher-level languages abstract away. This gives me a stronger foundation for security analysis and systems thinking.
+Networking: Rebuilding my knowledge from first principles (Endpoints → LAN → WAN). I prefer hands-on validation in a lab over just memorizing theory.
 
-- **Networking**  
-  Being rebuilt from first principles. While I have prior academic experience, I’m revisiting fundamentals to ensure my understanding is solid from **endpoints → LAN → WAN**, with hands-on validation rather than memorisation.
+📈 Impact so far
+Managed security remediation for a 4,500+ device estate.
 
-My aim isn't to collect certs or buzzwords, but to develop my thinking, fundamental knowledge and resourcefulness so I can competantly solve any problem I'm faced with throughout my career.
+Built a patch compliance dashboard that automated reporting for the entire enterprise.
 
----
+Audited and secured 600+ high-risk accounts following a collaborative pen-test.
 
+I’m not interested in collecting buzzwords. I’m building the resourcefulness and fundamental knowledge required to solve complex problems in Incident Response and Security Engineering.
+--- 
 ## 🧭 Repository Navigation
 
 - **Learning path**

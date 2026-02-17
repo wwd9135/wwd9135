@@ -4,7 +4,7 @@ I’m a Networks & Cyber Security student currently on an industrial placement a
 I currently manage security for an enterprise estate of 4,500+ devices, bridging the gap between infrastructure and security teams. This GitHub is a collection of the tools I’m building to solve the problems I encounter—from automating triage to understanding the low-level mechanics of encryption.
 
 ## Currently Building
-- WFTAF (Windows Forensic Triage & Analysis Framework): A modular DFIR tool using a PowerShell/Python pipeline to automate live system acquisition and heuristic analysis.
+- WFTAF (Windows Forensic Triage & Analysis Framework): A modular DFIR tool using a PowerShell/Python pipeline to automate live system acquisition and heuristic analysis using an LLM to enhance edge case/ suspicious activity detection.
 - Log Parsing & Normalization: Building robust utilities to transform messy Windows XML logs into structured telemetry for incident response.
 - Home Lab: Emulating enterprise network topologies to test lateral movement and detection engineering.
 

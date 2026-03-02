@@ -18,7 +18,7 @@ My goal is to move past "running tools" and focus on building them. I want to un
 
 ## Impact so far
 - Managed security remediation for a 4,500+ device estate.
-- Built a patch compliance dashboard that automated reporting for the entire enterprise.
+- Built a PowerBi patch compliance dashboard that automated reporting for the entire enterprise, pulling data from 4 different REST apis.
 - Audited and secured 600+ high-risk accounts following a collaborative pen-test.
 
 

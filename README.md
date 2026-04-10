@@ -51,21 +51,7 @@ Key priorities:
 
 ---
 
-## 🌍 Open Source
 
-- **Sigma Rules**  
-  Behaviour-based detections with clear logic and validation notes.
-
-- **Detection Content**  
-  KQL queries and detection logic designed for real environments, not just lab scenarios.
-
-- **Technical Writeups**  
-  Documenting:
-  - Detection validation using Atomic Red Team  
-  - Telemetry strengths and gaps  
-  - Practical lessons from building detection pipelines  
-
----
 
 ## 📂 Repository Structure
 

@@ -55,17 +55,8 @@ Key priorities:
 
 ## 📂 Repository Structure
 
-- **/lab**  
-  Detection experiments, Atomic Red Team simulations, telemetry analysis  
-
-- **/detections**  
-  KQL queries, Sigma rules, detection logic  
-
-- **/tools**  
-  DFIR utilities, log parsing, automation  
-
-- **/notes**  
-  Research, breakdowns, and technical thinking  
+- **Learning path** A running log of my thinking, notes, and reflections throughout my 2026 learning journey. This is my where ideas are formed and refined.
+- **Projects** A structured collection of: - Internship-related snippets - Full projects - Smaller focused tools Everything here is built with intent and iteration.
 
 ---
 

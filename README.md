@@ -2,9 +2,9 @@
 
 Security Infrastructure Engineer (Placement) | Cyber Security Student  
 
-Currently working across a 4,500+ endpoint estate, operating at the intersection of infrastructure and security. My focus is shifting from maintaining systems to **engineering detections, validating them, and understanding what actually works in production**.
+I work across enterprise Windows environments, focusing on **endpoint security, telemetry, and detection engineering**.  
 
-This GitHub documents that shift.
+This GitHub is a collection of the tools, detections, and experiments I build to understand attacker behaviour and improve real-world defensive capability.
 
 ---
 
@@ -17,7 +17,7 @@ Become a **Detection Engineer / Threat Intelligence practitioner**, specialising
 - Behavioural, ATT&CK-aligned detections
 - Purple teaming and adversary simulation
 
-The aim is simple: **build detections that hold up under real attack conditions**, not just theory.
+Focus: **build detections that work in practice — not just in theory**
 
 ---
 
@@ -27,114 +27,67 @@ The aim is simple: **build detections that hold up under real attack conditions*
 
 - Microsoft **Sentinel & Defender**
 - **KQL-based behavioural detections**
-- **MITRE ATT&CK-aligned design**
+- **MITRE ATT&CK-aligned detection design**
 - Validation using **Atomic Red Team**
 
-Focus is on:
+Key priorities:
 - Signal quality  
 - Detection coverage  
-- Real validation  
-
-Not alert triage.
+- Measurable validation  
 
 ---
 
 ## 🛠️ Current Work
 
 - **WFTAF (Windows Forensic Triage & Analysis Framework)**  
-  Modular DFIR tool (PowerShell + Python) for live system acquisition and analysis.  
-  Built to handle real-world edge cases, not clean lab data.
+  Modular DFIR tool (PowerShell + Python) for live system acquisition and analysis.
 
 - **Detection Lab (Azure)**  
-  Full Azure environment with VMs to:
-  - Simulate attacker behaviour (Atomic Red Team)  
-  - Ingest telemetry into Sentinel  
-  - Build and validate detections  
+  Simulating attacker techniques using Atomic Red Team, ingesting telemetry into Sentinel, and building validated detections.
 
 - **Telemetry Engineering**  
-  Transforming raw Windows logs into usable detection data.  
-  Focused on understanding **what data is actually reliable**.
+  Converting raw Windows logs into structured, usable detection data.  
+  Focused on understanding **what telemetry is actually reliable**.
 
 ---
 
-## 🧠 Bachelor’s Plan (Next 12 Months)
+## 🌍 Open Source
 
-### Dissertation
-- Detection engineering-focused (ATT&CK coverage, false positives, validation methods)
-- Narrow scope, deep analysis (5–10 techniques max)
-- Built on my Azure lab as an experimental platform
-- Aligned to **real operational gaps**, not academic fluff
+- **Sigma Rules**  
+  Behaviour-based detections with clear logic and validation notes.
 
-### Industry Alignment
-- Working directly with **SecOps / Security Engineers**
-- Identifying:
-  - Detection gaps  
-  - Noise issues  
-  - Poorly tuned controls  
+- **Detection Content**  
+  KQL queries and detection logic designed for real environments, not just lab scenarios.
 
-Everything feeds back into detection design and research.
-
----
-
-## 🌍 Open Source & Visibility
-
-- Primary OSS focus: **Sigma rules**
-- Behaviour-based detections with:
-  - Clear logic  
-  - Validation evidence  
-  - Real-world applicability  
-
-### Blog (Lab Notebook Approach)
-
-Writing about what actually works, including:
-
-- Validating Sentinel detections using Atomic Red Team  
-- Why single-event detections fail in production  
-- Defender telemetry for credential access detection  
-- Lessons from building a purple team lab in Azure  
-
-No fluff — just tested findings.
-
----
-
-## 🎓 Looking Ahead (MSc @ UCL)
-
-Treating a Master’s as a **research apprenticeship**, not just a degree.
-
-- Deeper work in detection systems and threat-informed engineering  
-- Publishable, high-quality research  
-- Leveraging academic + industry links for real impact  
-
----
-
-## 🧭 Guiding Principle
-
-> Detection engineering is an engineering discipline:
-> emulate attackers, analyse telemetry, encode behaviour, validate signal quality, and iterate.
+- **Technical Writeups**  
+  Documenting:
+  - Detection validation using Atomic Red Team  
+  - Telemetry strengths and gaps  
+  - Practical lessons from building detection pipelines  
 
 ---
 
 ## 📂 Repository Structure
 
 - **/lab**  
-  Detection experiments, Atomic Red Team runs, telemetry analysis  
+  Detection experiments, Atomic Red Team simulations, telemetry analysis  
 
 - **/detections**  
-  KQL queries, Sigma rules, and detection logic  
+  KQL queries, Sigma rules, detection logic  
 
 - **/tools**  
-  Practical utilities (DFIR, parsing, automation)  
+  DFIR utilities, log parsing, automation  
 
 - **/notes**  
-  Thinking, breakdowns, and research logs  
+  Research, breakdowns, and technical thinking  
 
 ---
 
-## 📈 Impact So Far
+## 📈 Impact
 
 - Secured and remediated a **4,500+ device enterprise estate**
 - Built a **Power BI patch compliance dashboard** integrating multiple APIs
-- Led remediation of **600+ high-risk accounts** post-pen test
+- Remediated **600+ high-risk accounts** following a penetration test
 
 ---
 

@@ -15,6 +15,7 @@ Most of my work is detection engineering and endpoint security across an estate 
 ## Stack
 
 `Python` `PowerShell` `KQL` `Sigma` `Microsoft Sentinel` `Defender` `Azure` `MITRE ATT&CK`
+
 `CompTIA Sec+` `CCNA` `SC-200` `SC900` `AZ500 in progress`
 ## Currently
 

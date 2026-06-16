@@ -14,8 +14,9 @@ Most of my work is detection engineering and endpoint security across an estate 
 
 #### Currently
 
-Working towards AZ-500, and spending most of my learning time on Azure-native detection and attack-surface analysis. A fair amount of what is here is still in progress, so it sits somewhere between a finished portfolio and a set of working notes.
+Spending most of my learning time on Azure-native detection and attack-surface analysis. A fair amount of what is here is still in progress, so it sits somewhere between a finished portfolio and a set of working notes.
 
 Python · PowerShell · KQL · Sigma · Sentinel · Defender · Azure · MITRE ATT&CK
+Certifications: Security+ · CCNA · SC-200 · AZ-500 in progress
 
 Newcastle / Exeter · [LinkedIn](https://www.linkedin.com/in/william-richardson-379ab328b/) · willrichardson20025@gmail.com

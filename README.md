@@ -8,7 +8,7 @@ Most of my work is detection engineering and endpoint security across an estate 
 
 ## Projects
 
-- **[WFTAF-v2](https://github.com/wwd9135/WFTAF-v2):** Windows Forensic Triage and Analysis Framework. A detection-as-code pipeline that collects Windows persistence artefacts with PowerShell, normalises them to the OSSEM schema in Python, and runs Sigma rules over the output. Built so it does not need a SIEM behind it to be useful.
+- **[WFTAF-v2](https://github.com/wwd9135/WFTAF):** Windows Forensic Triage and Analysis Framework. A detection-as-code pipeline that collects Windows persistence artefacts with PowerShell, normalises them to the OSSEM schema in Python, and runs Sigma rules over the output. Built so it does not need a SIEM behind it to be useful.
 - **[Detection-Engineering](https://github.com/wwd9135/Detection-Engineering):** Sigma and KQL detections grouped by ATT&CK tactic. Authored in Sigma, compiled to KQL for Sentinel, and validated in a home lab before it goes in. Each ships with the rule, the compiled query, test notes, and any tuning that went into reducing false positives.
 - **[Security-Portfolio](https://github.com/wwd9135/Security-Portfolio):** The smaller stuff. A Windows Event Log parser, a set of Python utilities, SC-200 attack-simulation write-ups run against a live Azure tenant, and Unveil, a steganography tool built on an encryption routine I wrote myself.
 

@@ -1,6 +1,6 @@
 # Will Richardson
 
-Security engineer on an industrial placement at the Met Office, currently in the detection and SecOps team. Final year of a Networks and Cyber Security BSc at Northumbria, graduating 2027. SC cleared.
+Prev Security engineer with an industrial placement at the Met Office in the detection and SecOps team. Final year of a Networks and Cyber Security BSc at Northumbria, graduating 2027. SC cleared.
 
 Most of my work is detection engineering and endpoint security across an estate of around 4,500 devices: writing and tuning detections, investigating alerts across the Microsoft security stack, and building tooling to take some of the manual work out of analysis.
 

@@ -14,13 +14,13 @@ Most of my work is detection engineering and endpoint security across an estate 
 
 ## Stack
 
-`Python` `PowerShell` `KQL` `Sigma` `Microsoft Sentinel` `Defender` `Azure` `MITRE ATT&CK`
+`Python` `PowerShell` `KQL` `SPL` `Sigma` `Microsoft Sentinel` `Defender` `Azure` `MITRE ATT&CK`
 
 `CompTIA Sec+` `CCNA` `SC-200` `SC900` `AZ500 in progress`
-## Currently
+## Currently working towards
 
-- Working towards AZ-500, focused on Azure-native detection and attack-surface analysis.
-- A fair amount of what is here is still in progress, so it sits somewhere between a finished portfolio and a set of working notes.
+- SANS SEC-530/GDSA
+- Project building PKI & Linux labs+ detections
 
 ##
 
